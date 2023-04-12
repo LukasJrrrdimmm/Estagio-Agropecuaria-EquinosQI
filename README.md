@@ -15,5 +15,5 @@ Powered by:
 Metas
 - Menor intervenção de operador
 - implemetação do sistema
-- Alimentador automático
+- Alimentador automático (Prioridade)
 - Verificar o desempenho do animal na interação com os tablets.
